@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake & Sounds",
+  "description": "A combination of a classic snake game with a built-in neon music player featuring three tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

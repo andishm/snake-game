@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-black text-cyan-400 font-mono tracking-wider;
+    filter: contrast(1.2) brightness(1.1);
+  }
+}
